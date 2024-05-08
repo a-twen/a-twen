@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Алекей 👋</h1>
+<h1 align="center">Привет, я Алексей 👋</h1>
 <h3 align="center">Junior Manual QA Engineer</h3>
 
 - 🎓 Я изучаю **QA, Java, Agile, AI**
