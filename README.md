@@ -1,5 +1,5 @@
 <h1 align="center">Привет, я Алексей 👋</h1>
-<h3 align="center">Junior Manual QA Engineer</h3>
+<h3 align="center">QA Engineer</h3>
 
 - 🎓 Я изучаю **Java Automatization**
 - 💼 Активно ищу работу
